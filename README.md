@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
+#### [:pager: **Personal Site**](www.rickanli.dev)
+
+I'm a recent CS graduate currently looking for a software engineering position.
+
+I'm also trying to contribute more to open source.
+
+---
+
+Interested in: Computer Vision, Parallel Computing, and Computational Complexity. 
+
 
 <!--
 **rickyli888/rickyli888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

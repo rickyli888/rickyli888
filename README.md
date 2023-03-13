@@ -1,5 +1,5 @@
 ### Hi there 👋 
-#### [:pager: **Personal Site**](www.rickanli.dev)
+#### [:pager: **Personal Site**](https://rickanli.dev/))
 
 I'm a recent CS graduate currently looking for a software engineering position.
 
